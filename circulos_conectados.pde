@@ -1,0 +1,13 @@
+size(450,800);
+background(255,0,255);
+stroke(255,255,0);
+strokeWeight(10);
+fill(0,0,127);
+circle(160,200,200);
+stroke(255,0,0);
+strokeWeight(4);
+fill(255,255,0);
+circle(325,500,400);
+stroke(180,180,180);
+strokeWeight(7);
+line(160,200,325,500);
